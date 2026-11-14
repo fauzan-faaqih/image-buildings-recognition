@@ -1,0 +1,501 @@
+test_file,pool_file,cosine,kelas_test,kelas_pool
+archive/Safavid architecture/data/105.jpg,archive/Safavid architecture/data/104.jpg,0.9891,Safavid architecture,Safavid architecture
+archive/American craftsman style/data/000643.jpg,archive/American Foursquare architecture/data/001057.jpg,0.9880,American craftsman style,American Foursquare architecture
+archive/Buddhist architecture/data/226.jpg,archive/Buddhist architecture/data/227.jpg,0.9847,Buddhist architecture,Buddhist architecture
+archive/Mughal architecture/data/295.jpg,archive/Mughal architecture/data/288.jpg,0.9786,Mughal architecture,Mughal architecture
+archive/Khmer architecture/data/131.jpg,archive/Khmer architecture/data/132.jpg,0.9760,Khmer architecture,Khmer architecture
+archive/Mughal architecture/data/239.jpg,archive/Mughal architecture/data/238.jpg,0.9695,Mughal architecture,Mughal architecture
+archive/American Foursquare architecture/data/4_800px-831Richland.jpg,archive/American Foursquare architecture/data/000970.jpg,0.9686,American Foursquare architecture,American Foursquare architecture
+archive/Khmer architecture/data/129.jpg,archive/Khmer architecture/data/130.jpg,0.9678,Khmer architecture,Khmer architecture
+archive/Bauhaus architecture/data/004049.jpg,archive/Bauhaus architecture/data/004021.jpg,0.9664,Bauhaus architecture,Bauhaus architecture
+archive/Brutalist architecture/data/35.jpg,archive/Brutalist architecture/data/36.jpg,0.9655,Brutalist architecture,Brutalist architecture
+archive/Tudor Revival architecture/data/562_800px-Victoria_Hall%2C_Westmount_5.JPG,archive/Tudor Revival architecture/data/566_800px-Victoria_Hall%2C_Westmount_4.JPG,0.9651,Tudor Revival architecture,Tudor Revival architecture
+archive/Ottoman architecture/data/163.jpg,archive/Ottoman architecture/data/159.jpg,0.9630,Ottoman architecture,Ottoman architecture
+archive/Khmer architecture/data/121.jpg,archive/Khmer architecture/data/120.jpg,0.9618,Khmer architecture,Khmer architecture
+archive/Russian Revival architecture/data/013721.jpg,archive/Russian Revival architecture/data/013581.jpg,0.9599,Russian Revival architecture,Russian Revival architecture
+archive/Beaux-Arts architecture/data/2641_800px-WTMTL_T32_IMG_8277.JPG,archive/Beaux-Arts architecture/data/2633_800px-WTMTL_T32_IMG_8276.JPG,0.9580,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Queen Anne architecture/data/1284_800px-USA-Santa_Clara-Morse_Mansion-3.jpg,archive/Queen Anne architecture/data/1283_800px-USA-Santa_Clara-Morse_Mansion-4.jpg,0.9576,Queen Anne architecture,Queen Anne architecture
+archive/Palladian architecture/data/1559_718px-St._John%27s_Episcopal_Church.JPG,archive/Palladian architecture/data/1551_513px-Church_of_the_Presidents.JPG,0.9558,Palladian architecture,Palladian architecture
+archive/Byzantine architecture/data/005230.jpg,archive/Byzantine architecture/data/005153.jpg,0.9557,Byzantine architecture,Byzantine architecture
+archive/Art Nouveau architecture/data/2868_800px-Riga_-_Elizabetes_Iela_10b%2C_1903.JPG,archive/Art Nouveau architecture/data/002668.jpg,0.9556,Art Nouveau architecture,Art Nouveau architecture
+archive/Beaux-Arts architecture/data/2643_800px-Maisons_Marius_et_Oscar_Dufresne_10.jpg,archive/Beaux-Arts architecture/data/2631_800px-Maisons_Marius_et_Oscar_Dufresne_11.jpg,0.9553,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Edwardian architecture/data/1556_800px-John_Kenneth_Leveson_Ross_House_10.jpg,archive/Edwardian architecture/data/1553_800px-John_Kenneth_Leveson_Ross_House%2C_Montreal_11.jpg,0.9553,Edwardian architecture,Edwardian architecture
+archive/Buddhist architecture/data/233.jpg,archive/Buddhist architecture/data/232.jpg,0.9538,Buddhist architecture,Buddhist architecture
+archive/Queen Anne architecture/data/1823_683px-Eddy-Taylor_house_from_E_1.JPG,archive/Queen Anne architecture/data/1824_666px-Eddy-Taylor_house_from_E_2.JPG,0.9536,Queen Anne architecture,Queen Anne architecture
+archive/Greek Revival architecture/data/009370.jpg,archive/Greek Revival architecture/data/317_800px-Braniborsk%C3%A1_br%C3%A1na.jpg,0.9529,Greek Revival architecture,Greek Revival architecture
+archive/Deconstructivism/data/2478_800px-Richard_B._Fisher_Center_for_the_Performing_Arts_-_IMG_8015.JPG,archive/Deconstructivism/data/2476_800px-Richard_B._Fisher_Center_for_the_Performing_Arts_-_IMG_8016.JPG,0.9528,Deconstructivism,Deconstructivism
+archive/Tudor Revival architecture/data/969_800px-Klehm_House_4.jpg,archive/Tudor Revival architecture/data/968_800px-Klehm_House_3.jpg,0.9507,Tudor Revival architecture,Tudor Revival architecture
+archive/Beaux-Arts architecture/data/1915_800px-Parliament-Ottawa.jpg,archive/Beaux-Arts architecture/data/1945_800px-Parliament-Ottawa_edit1.jpg,0.9505,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Dravidian architecture/data/63.jpg,archive/Dravidian architecture/data/86.jpg,0.9485,Dravidian architecture,Dravidian architecture
+archive/Buddhist architecture/data/193.jpg,archive/Buddhist architecture/data/194.jpg,0.9457,Buddhist architecture,Buddhist architecture
+archive/Buddhist architecture/data/189.jpg,archive/Buddhist architecture/data/188.jpg,0.9448,Buddhist architecture,Buddhist architecture
+archive/Tudor Revival architecture/data/966_800px-Schuyler%2C_Nebraska_Carnegie_library_from_E.JPG,archive/Tudor Revival architecture/data/965_800px-Schuyler%2C_Nebraska_Carnegie_library_from_NE_2.JPG,0.9447,Tudor Revival architecture,Tudor Revival architecture
+archive/Postmodern architecture/data/011810.jpg,archive/Postmodern architecture/data/011671.jpg,0.9438,Postmodern architecture,Postmodern architecture
+archive/Buddhist architecture/data/171.jpg,archive/Buddhist architecture/data/172.jpg,0.9438,Buddhist architecture,Buddhist architecture
+archive/Byzantine architecture/data/005274.jpg,archive/Byzantine architecture/data/005089.jpg,0.9428,Byzantine architecture,Byzantine architecture
+archive/Architecture of the Qing Dynasty/data/444.jpg,archive/Architecture of the Qing Dynasty/data/434.jpg,0.9424,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Romanesque architecture/data/Angouleme_cathedral_StPierre_ac.JPG,archive/Romanesque architecture/data/012820.jpg,0.9423,Romanesque architecture,Romanesque architecture
+archive/Maya architecture/data/229.jpg,archive/Maya architecture/data/228.jpg,0.9419,Maya architecture,Maya architecture
+archive/Mughal architecture/data/229.jpg,archive/Mughal architecture/data/225.jpg,0.9407,Mughal architecture,Mughal architecture
+archive/Tudor Revival architecture/data/014138.jpg,archive/Tudor Revival architecture/data/014673.jpg,0.9389,Tudor Revival architecture,Tudor Revival architecture
+archive/Architecture of Edo Period/data/320.jpg,archive/Architecture of Edo Period/data/329.jpg,0.9377,Architecture of Edo Period,Architecture of Edo Period
+archive/American Foursquare architecture/data/91_800px-648%2C_boulevard_Louis-XIV_Charlesbourg-1.JPG,archive/American Foursquare architecture/data/92_800px-648%2C_boulevard_Louis-XIV_Charlesbourg-2.JPG,0.9368,American Foursquare architecture,American Foursquare architecture
+archive/Moorish architecture/data/205.jpg,archive/Moorish architecture/data/204.jpg,0.9367,Moorish architecture,Moorish architecture
+archive/Architecture of the Joseon Dynasty/data/156.jpg,archive/Architecture of the Joseon Dynasty/data/150.jpg,0.9367,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Romanesque architecture/data/pict3950.jpg,archive/Gothic architecture/data/02_0059.jpg,0.9365,Romanesque architecture,Gothic architecture
+archive/Architecture of the Joseon Dynasty/data/136.jpg,archive/Architecture of the Joseon Dynasty/data/143.jpg,0.9364,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Palladian architecture/data/4844_800px-Petit_Trianon_-_Fa%C3%A7ade_ouest.jpg,archive/Palladian architecture/data/5008_800px-Petit_Trianon_-_Fa%C3%A7ade_nord_-_2.jpg,0.9362,Palladian architecture,Palladian architecture
+archive/Buddhist architecture/data/213.jpg,archive/Buddhist architecture/data/211.jpg,0.9355,Buddhist architecture,Buddhist architecture
+archive/Beaux-Arts architecture/data/1104_800px-Box_Butte_County_courthouse_from_SW_1.JPG,archive/Beaux-Arts architecture/data/1112_800px-Box_Butte_County_courthouse_from_W.JPG,0.9352,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Gothic architecture/data/02_0051.jpg,archive/Gothic architecture/data/02_0058.jpg,0.9345,Gothic architecture,Gothic architecture
+archive/Art Nouveau architecture/data/2385_450px-Rue_Reaumur_51.JPG,archive/Art Nouveau architecture/data/2387_450px-Rue_Reaumur_51-2.JPG,0.9342,Art Nouveau architecture,Art Nouveau architecture
+archive/Bauhaus architecture/data/003862.jpg,archive/Bauhaus architecture/data/003876.jpg,0.9316,Bauhaus architecture,Bauhaus architecture
+archive/Russian Revival architecture/data/013819.jpg,archive/Russian Revival architecture/data/2230_450px-Chr%C3%A1m_zmrtv%C3%BDchvst%C3%A1n%C3%AD_Je%C5%BE%C3%AD%C5%A1e_Krista_%285%29.jpg,0.9314,Russian Revival architecture,Russian Revival architecture
+archive/Queen Anne architecture/data/1720_752px-Georgia_Row_House_%28Omaha%29_from_E_1.JPG,archive/Queen Anne architecture/data/1719_708px-Georgia_Row_House_%28Omaha%29_from_SE_1.JPG,0.9312,Queen Anne architecture,Queen Anne architecture
+archive/Architecture of Edo Period/data/172.jpg,archive/Architecture of Edo Period/data/173.jpg,0.9297,Architecture of Edo Period,Architecture of Edo Period
+archive/Minangkabau architecture/data/144.jpg,archive/Minangkabau architecture/data/284.jpg,0.9292,Minangkabau architecture,Minangkabau architecture
+archive/Queen Anne architecture/data/1911_800px-Carpenter_farmstead_from_S_3.JPG,archive/Queen Anne architecture/data/1913_800px-Carpenter_farmstead_from_S_2.JPG,0.9285,Queen Anne architecture,Queen Anne architecture
+archive/Gothic architecture/data/02_0113.jpg,archive/Gothic architecture/data/02_0114.jpg,0.9284,Gothic architecture,Gothic architecture
+archive/Ancient Egyptian architecture/data/3079_800px-Niouserre-Neferirkare1.JPG,archive/Ancient Egyptian architecture/data/3642_800px-Neferirkare1.JPG,0.9284,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Queen Anne architecture/data/2269_800px-Mylius-Eaton_house_from_W_2.JPG,archive/Queen Anne architecture/data/2268_800px-Mylius-Eaton_house_from_NW_1.JPG,0.9283,Queen Anne architecture,Queen Anne architecture
+archive/Khmer architecture/data/270.jpg,archive/Khmer architecture/data/125.jpg,0.9267,Khmer architecture,Khmer architecture
+archive/Queen Anne architecture/data/2261_800px-Ward_House_%28West_Liberty%29_from_E_1.JPG,archive/Queen Anne architecture/data/2265_800px-Ward_House_%28West_Liberty%29_from_E_2.JPG,0.9264,Queen Anne architecture,Queen Anne architecture
+archive/Tudor Revival architecture/data/486_450px-Loyola_College_Building_6.JPG,archive/Tudor Revival architecture/data/489_800px-Loyola_College_Building_7.JPG,0.9264,Tudor Revival architecture,Tudor Revival architecture
+archive/Khmer architecture/data/48.jpg,archive/Khmer architecture/data/49.jpg,0.9263,Khmer architecture,Khmer architecture
+archive/Architecture of Edo Period/data/367.jpg,archive/Architecture of Edo Period/data/333.jpg,0.9246,Architecture of Edo Period,Architecture of Edo Period
+archive/Buddhist architecture/data/153.jpg,archive/Buddhist architecture/data/152.jpg,0.9241,Buddhist architecture,Buddhist architecture
+archive/Architecture of the Joseon Dynasty/data/265.jpg,archive/Architecture of the Joseon Dynasty/data/260.jpg,0.9236,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Russian Revival architecture/data/013587.jpg,archive/Byzantine architecture/data/005638.jpg,0.9232,Russian Revival architecture,Byzantine architecture
+archive/Palladian architecture/data/011362.jpg,archive/Palladian architecture/data/011260.jpg,0.9223,Palladian architecture,Palladian architecture
+archive/Art Nouveau architecture/data/002719.jpg,archive/Art Nouveau architecture/data/002718.jpg,0.9218,Art Nouveau architecture,Art Nouveau architecture
+archive/Baroque architecture/data/003698.jpg,archive/Baroque architecture/data/003258.jpg,0.9212,Baroque architecture,Baroque architecture
+archive/Balinese architecture/data/151.jpg,archive/Balinese architecture/data/181.jpg,0.9207,Balinese architecture,Balinese architecture
+archive/Mughal architecture/data/147.jpg,archive/Mughal architecture/data/145.jpg,0.9198,Mughal architecture,Mughal architecture
+archive/Baroque architecture/data/1678_800px-Karlskirche%2C_Viede%C5%88%2C_Rak%C3%BAsko.jpg,archive/Baroque architecture/data/003733.jpg,0.9196,Baroque architecture,Baroque architecture
+archive/Dravidian architecture/data/119.jpg,archive/Dravidian architecture/data/77.jpg,0.9194,Dravidian architecture,Dravidian architecture
+archive/Mughal architecture/data/189.jpg,archive/Mughal architecture/data/181.jpg,0.9188,Mughal architecture,Mughal architecture
+archive/Art Nouveau architecture/data/2799_450px-Riga-Jugenstilviertel_Alberta_isla02.jpg,archive/Art Nouveau architecture/data/2800_450px-Alberta_iela_4_02.JPG,0.9181,Art Nouveau architecture,Art Nouveau architecture
+archive/Ancient Egyptian architecture/data/001518.jpg,archive/Ancient Egyptian architecture/data/2425_Sfinga1.jpg,0.9181,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Architecture of Edo Period/data/134.jpg,archive/Architecture of Edo Period/data/156.jpg,0.9180,Architecture of Edo Period,Architecture of Edo Period
+archive/Tudor Revival architecture/data/415_800px-PMAGDALENA.jpg,archive/Tudor Revival architecture/data/376_800px-Palacio_de_la_Magdalena_%28Santander%2C_Cantabria%29.jpg,0.9179,Tudor Revival architecture,Tudor Revival architecture
+archive/Art Deco architecture/data/3794_800px-Berlin_C_Legien_Trachtenbrodtstr_18.jpg,archive/Art Deco architecture/data/3708_800px-Berlin_C_Legien_Trachtenbrodtstr_20.jpg,0.9168,Art Deco architecture,Art Deco architecture
+archive/Moorish architecture/data/8.jpg,archive/Moorish architecture/data/155.jpg,0.9167,Moorish architecture,Moorish architecture
+archive/Art Deco architecture/data/2585_800px-Ferguson%27s_Folly_Saint_H%C3%A9lyi_J%C3%A8rri_a.jpg,archive/Art Deco architecture/data/2599_800px-Ferguson%27s_Folly_Saint_H%C3%A9lyi_J%C3%A8rri_b.jpg,0.9166,Art Deco architecture,Art Deco architecture
+archive/Greek Revival architecture/data/4844_800px-USA-San_Jose-Cathedral_Basilica_of_Saint_Joseph-4.jpg,archive/Greek Revival architecture/data/4848_800px-USA-San_Jose-Cathedral_Basilica_of_Saint_Joseph-18.jpg,0.9159,Greek Revival architecture,Greek Revival architecture
+archive/Dravidian architecture/data/217.jpg,archive/Dravidian architecture/data/219.jpg,0.9151,Dravidian architecture,Dravidian architecture
+archive/Achaemenid architecture/data/321_800px-Kabe_Zartosht-1.JPG,archive/Achaemenid architecture/data/331_800px-Naqsherostam43.jpg,0.9151,Achaemenid architecture,Achaemenid architecture
+archive/Moorish architecture/data/71.jpg,archive/Moorish architecture/data/70.jpg,0.9147,Moorish architecture,Moorish architecture
+archive/Achaemenid architecture/data/000024.jpg,archive/Achaemenid architecture/data/000225.jpg,0.9146,Achaemenid architecture,Achaemenid architecture
+archive/Byzantine architecture/data/005383.jpg,archive/Byzantine architecture/data/005099.jpg,0.9134,Byzantine architecture,Byzantine architecture
+archive/Balinese architecture/data/145.jpg,archive/Balinese architecture/data/146.jpg,0.9130,Balinese architecture,Balinese architecture
+archive/Architecture of Edo Period/data/308.jpg,archive/Architecture of Edo Period/data/309.jpg,0.9127,Architecture of Edo Period,Architecture of Edo Period
+archive/Baroque architecture/data/3734_800px-0_Place_Saint-Pierre_-_Vatican_%282%29.JPG,archive/Baroque architecture/data/4124_800px-St.PetersBasilica.JPG,0.9124,Baroque architecture,Baroque architecture
+archive/Beaux-Arts architecture/data/4483_800px-Palacio_Legislativo-La_Plata.JPG,archive/Beaux-Arts architecture/data/4481_800px-Palacio_Legislativo_2..JPG,0.9117,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Safavid architecture/data/372.jpg,archive/Safavid architecture/data/381.jpg,0.9115,Safavid architecture,Safavid architecture
+archive/Khmer architecture/data/20.jpg,archive/Khmer architecture/data/21.jpg,0.9110,Khmer architecture,Khmer architecture
+archive/Russian Revival architecture/data/013881.jpg,archive/Russian Revival architecture/data/41_419px-Tallinn_church.jpg,0.9108,Russian Revival architecture,Russian Revival architecture
+archive/Safavid architecture/data/319.jpg,archive/Safavid architecture/data/331.jpg,0.9094,Safavid architecture,Safavid architecture
+archive/Ancient Egyptian architecture/data/001744.jpg,archive/Ancient Egyptian architecture/data/001460.jpg,0.9094,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Baroque architecture/data/1312_750px-Chiesa_di_San_Fedele.jpg,archive/Baroque architecture/data/1314_5243MilanoSFedele.JPG,0.9094,Baroque architecture,Baroque architecture
+archive/Greek Revival architecture/data/4566_800px-William_Rogers_house_%28Bishopville_SC%29_2.JPG,archive/Greek Revival architecture/data/4565_769px-William_Rogers_house_%28Bishopville_SC%29_3.JPG,0.9090,Greek Revival architecture,Greek Revival architecture
+archive/Beaux-Arts architecture/data/2715_800px-Maison_Lord-Atholstan_03.jpg,archive/Beaux-Arts architecture/data/2721_800px-Maison_Lord-Atholstan_05.jpg,0.9090,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Byzantine architecture/data/005081.jpg,archive/Byzantine architecture/data/005500.jpg,0.9084,Byzantine architecture,Byzantine architecture
+archive/Georgian architecture/data/3557_800px-The_Queen%27s_House%2C_Greenwich.JPG,archive/Georgian architecture/data/3565_800px-Queens_house_greenwich_exterior_1.jpg,0.9083,Georgian architecture,Georgian architecture
+archive/Architecture of Edo Period/data/303.jpg,archive/Architecture of Edo Period/data/292.jpg,0.9082,Architecture of Edo Period,Architecture of Edo Period
+archive/Ancient Egyptian architecture/data/2412_800px-Khafre.jpg,archive/Ancient Egyptian architecture/data/2428_800px-Esfingekeops.JPG,0.9080,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Mughal architecture/data/240.jpg,archive/Mughal architecture/data/238.jpg,0.9080,Mughal architecture,Mughal architecture
+archive/Queen Anne architecture/data/1876_800px-Kirchman_House_%28Wahoo%2C_Nebraska%29_from_N_2.JPG,archive/Queen Anne architecture/data/1871_800px-Kirchman_House_%28Wahoo%2C_Nebraska%29_from_N_1.JPG,0.9078,Queen Anne architecture,Queen Anne architecture
+archive/Moorish architecture/data/146.jpg,archive/Moorish architecture/data/153.jpg,0.9073,Moorish architecture,Moorish architecture
+archive/Ancient Egyptian architecture/data/2342_800px-Giza_Plateau_-_Pyramid_of_Khafre.JPG,archive/Ancient Egyptian architecture/data/2336_800px-Khafre%27s_Pyramid_2.jpg,0.9073,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Art Deco architecture/data/3240_800px-Palacio_de_las_Bellas_Artes_%28Mexico_City%29.jpg,archive/Art Deco architecture/data/3176_800px-Fachada_de_Bellas_Artes.JPG,0.9066,Art Deco architecture,Art Deco architecture
+archive/Ancient Egyptian architecture/data/2427_800px-Flickr_-_MrSnooks_-_Cairo%2C_Egypt.jpg,archive/Ancient Egyptian architecture/data/2421_792px-The_Sphinx_and_Pyramid_of_Khafre.jpg,0.9065,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Greek Revival architecture/data/3288_800px-The_Houmas%2C_6.JPG,archive/Greek Revival architecture/data/3266_800px-Houmas_House_Up_Close.jpg,0.9064,Greek Revival architecture,Greek Revival architecture
+archive/Baroque architecture/data/2412_450px-Viena._Fachada_de_San_Miguell.JPG,archive/Baroque architecture/data/2396_450px-Michaelerkirche_Vienna_June_2006_325.jpg,0.9063,Baroque architecture,Baroque architecture
+archive/Ancient Egyptian architecture/data/001805.jpg,archive/Ancient Egyptian architecture/data/001470.jpg,0.9061,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Beaux-Arts architecture/data/1145_800px-Burt_County_Courthouse_from_W_1.JPG,archive/Beaux-Arts architecture/data/1149_800px-Burt_County_Courthouse_from_SW_3.JPG,0.9057,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Georgian architecture/data/08_0023.jpg,archive/Georgian architecture/data/08_0020.jpg,0.9054,Georgian architecture,Georgian architecture
+archive/Architecture of the Qing Dynasty/data/356.jpg,archive/Architecture of the Qing Dynasty/data/361.jpg,0.9053,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Khmer architecture/data/57.jpg,archive/Khmer architecture/data/58.jpg,0.9050,Khmer architecture,Khmer architecture
+archive/Georgian architecture/data/007987.jpg,archive/Georgian architecture/data/08_0067.jpg,0.9045,Georgian architecture,Georgian architecture
+archive/Baroque architecture/data/1677_800px-Viena_1087.jpg,archive/Baroque architecture/data/1640_800px-Karlskirche_Vienna_June_2006_476.jpg,0.9037,Baroque architecture,Baroque architecture
+archive/Swahili architecture/data/87.jpg,archive/Swahili architecture/data/84.jpg,0.9033,Swahili architecture,Swahili architecture
+archive/Byzantine architecture/data/1661_800px-%D0%A3%D1%81%D0%BF%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%98%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%BE%D0%BD%D0%B0%D1%81%D1%82%D1%8B%D1%80%D1%8C%29.jpg,archive/Byzantine architecture/data/1671_450px-Valdaysky_Monastery_31.jpg,0.9032,Byzantine architecture,Byzantine architecture
+archive/Architecture of the Qing Dynasty/data/330.jpg,archive/Architecture of the Qing Dynasty/data/329.jpg,0.9032,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Baroque architecture/data/465_400px-Venice_-_Chiesa_degli_Scalzi_1.jpg,archive/Baroque architecture/data/457_450px-Santa_Maria_degli_Scalzi.jpg,0.9030,Baroque architecture,Baroque architecture
+archive/Architecture of Edo Period/data/122.jpg,archive/Architecture of Edo Period/data/120.jpg,0.9030,Architecture of Edo Period,Architecture of Edo Period
+archive/Minangkabau architecture/data/117.jpg,archive/Minangkabau architecture/data/89.jpg,0.9019,Minangkabau architecture,Minangkabau architecture
+archive/Safavid architecture/data/42.jpg,archive/Safavid architecture/data/43.jpg,0.9017,Safavid architecture,Safavid architecture
+archive/Byzantine architecture/data/005348.jpg,archive/Byzantine architecture/data/005174.jpg,0.9014,Byzantine architecture,Byzantine architecture
+archive/Architecture of the Joseon Dynasty/data/196.jpg,archive/Architecture of the Joseon Dynasty/data/197.jpg,0.9009,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Ancient Egyptian architecture/data/2316_01_khafre_north.jpg,archive/Ancient Egyptian architecture/data/2347_799px-Giseh_16.jpg,0.9006,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Georgian architecture/data/008080.jpg,archive/Georgian architecture/data/008200.jpg,0.9001,Georgian architecture,Georgian architecture
+archive/Khmer architecture/data/260.jpg,archive/Khmer architecture/data/259.jpg,0.9000,Khmer architecture,Khmer architecture
+archive/Ancient Egyptian architecture/data/3737_800px-Dahshur_RedPyramid_Egypt_2007feb1-22_byDanielCsorfoly.JPG,archive/Ancient Egyptian architecture/data/2199_800px-Dahshur_-_Red_Pyramid_from_road.JPG,0.8998,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Ancient Egyptian architecture/data/2315_800px-Giseh_19.jpg,archive/Ancient Egyptian architecture/data/2344_800px-Khephren_011.jpg,0.8994,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Architecture of Edo Period/data/153.jpg,archive/Architecture of Edo Period/data/154.jpg,0.8994,Architecture of Edo Period,Architecture of Edo Period
+archive/Baroque architecture/data/003344.jpg,archive/Baroque architecture/data/003419.jpg,0.8984,Baroque architecture,Baroque architecture
+archive/Minangkabau architecture/data/94.jpg,archive/Minangkabau architecture/data/176.jpg,0.8977,Minangkabau architecture,Minangkabau architecture
+archive/Georgian architecture/data/2485_800px-Horse_Guards_Building.JPG,archive/Georgian architecture/data/2470_800px-Horse_Guards_Building_-_20090803.jpg,0.8976,Georgian architecture,Georgian architecture
+archive/Moorish architecture/data/81.jpg,archive/Moorish architecture/data/128.jpg,0.8973,Moorish architecture,Moorish architecture
+archive/Palladian architecture/data/011144.jpg,archive/Palladian architecture/data/011365.jpg,0.8958,Palladian architecture,Palladian architecture
+archive/Architecture of the Qing Dynasty/data/125.jpg,archive/Architecture of the Qing Dynasty/data/151.jpg,0.8954,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Achaemenid architecture/data/687_800px-Apadana_palace_persepolis.JPG,archive/Achaemenid architecture/data/000192.jpg,0.8951,Achaemenid architecture,Achaemenid architecture
+archive/Art Nouveau architecture/data/1930_800px-Edificio_de_la_Compa%C3%B1%C3%ADa_Colonial_%28Madrid%29_01.jpg,archive/Art Nouveau architecture/data/1940_800px-Edificio_de_la_Compa%C3%B1%C3%ADa_Colonial_%28Madrid%29_03.jpg,0.8946,Art Nouveau architecture,Art Nouveau architecture
+archive/Art Deco architecture/data/2135_450px-Edifice_Bell_Montreal_02.JPG,archive/Art Deco architecture/data/2136_450px-Edifice_Bell_Montreal_03.jpg,0.8945,Art Deco architecture,Art Deco architecture
+archive/Queen Anne architecture/data/2274_686px-Mylius-Eaton_house_from_W_1.JPG,archive/Queen Anne architecture/data/2268_800px-Mylius-Eaton_house_from_NW_1.JPG,0.8945,Queen Anne architecture,Queen Anne architecture
+archive/Maya architecture/data/417.jpg,archive/Maya architecture/data/413.jpg,0.8943,Maya architecture,Maya architecture
+archive/Baroque architecture/data/003323.jpg,archive/Baroque architecture/data/003266.jpg,0.8943,Baroque architecture,Baroque architecture
+archive/Mughal architecture/data/236.jpg,archive/Mughal architecture/data/238.jpg,0.8940,Mughal architecture,Mughal architecture
+archive/Minangkabau architecture/data/107.jpg,archive/Minangkabau architecture/data/109.jpg,0.8937,Minangkabau architecture,Minangkabau architecture
+archive/Bauhaus architecture/data/003949.jpg,archive/Bauhaus architecture/data/003876.jpg,0.8932,Bauhaus architecture,Bauhaus architecture
+archive/American Foursquare architecture/data/001279.jpg,archive/American Foursquare architecture/data/001425.jpg,0.8929,American Foursquare architecture,American Foursquare architecture
+archive/Ancient Egyptian architecture/data/001516.jpg,archive/Ancient Egyptian architecture/data/120_600px-Sakkara_02a.jpg,0.8926,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Mughal architecture/data/199.jpg,archive/Mughal architecture/data/210.jpg,0.8925,Mughal architecture,Mughal architecture
+archive/Greek Revival architecture/data/3221_776px-William_Ducker_House_from_E_2.jpg,archive/Greek Revival architecture/data/3223_771px-William_Ducker_House_from_NE.jpg,0.8921,Greek Revival architecture,Greek Revival architecture
+archive/Baroque architecture/data/305_450px-Gesuati_frontal.JPG,archive/Baroque architecture/data/485_536px-San_Stae_church_along_the_Grand_Canal.jpg,0.8918,Baroque architecture,Baroque architecture
+archive/Hausa architecture/data/85.jpg,archive/Hausa architecture/data/82.jpg,0.8914,Hausa architecture,Hausa architecture
+archive/Russian Revival architecture/data/013755.jpg,archive/Russian Revival architecture/data/4729_800px-Moscow_July_2011-11a.jpg,0.8911,Russian Revival architecture,Russian Revival architecture
+archive/Ancient Egyptian architecture/data/2410_800px-Flickr_-_archer10_%28Dennis%29_-_Egypt-12B-091.jpg,archive/Ancient Egyptian architecture/data/2430_800px-Flickr_-_Daveness_98_-_Does_it_need_a_title.jpg,0.8903,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Ancient Egyptian architecture/data/310_800px-Egypt-12B-021_-_Step_Pyramid_of_Djoser.jpg,archive/Ancient Egyptian architecture/data/345_800px-Egypte113.jpg,0.8899,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Romanesque architecture/data/4557_725px-Hahnentorburg_K%C3%B6ln_-_2007.jpg,archive/Romanesque architecture/data/4543_800px-Koeln-Hahenentor-web.jpg,0.8899,Romanesque architecture,Romanesque architecture
+archive/Art Nouveau architecture/data/2847_800px-Riga_-_Strelnieku_iela_4a.JPG,archive/Art Nouveau architecture/data/002816.jpg,0.8895,Art Nouveau architecture,Art Nouveau architecture
+archive/Architecture of the Qing Dynasty/data/335.jpg,archive/Architecture of the Qing Dynasty/data/379.jpg,0.8888,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Maya architecture/data/365.jpg,archive/Maya architecture/data/356.jpg,0.8887,Maya architecture,Maya architecture
+archive/Pueblo architecture/data/128.jpg,archive/Pueblo architecture/data/129.jpg,0.8884,Pueblo architecture,Pueblo architecture
+archive/Baroque architecture/data/3414_441px-Gendarmenmarkt_Berlin_5.jpg,archive/Baroque architecture/data/3409_450px-Gendarmenmarkt_Berlin_4.jpg,0.8883,Baroque architecture,Baroque architecture
+archive/Moorish architecture/data/258.jpg,archive/Moorish architecture/data/259.jpg,0.8882,Moorish architecture,Moorish architecture
+archive/Khmer architecture/data/174.jpg,archive/Khmer architecture/data/175.jpg,0.8881,Khmer architecture,Khmer architecture
+archive/Art Deco architecture/data/1256_800px-Esquina_Edificio_del_Arq._Virasoro_2.JPG,archive/Art Deco architecture/data/1276_800px-Esquina_Edificio_del_Arq._Virasoro_4.JPG,0.8879,Art Deco architecture,Art Deco architecture
+archive/Ancient Egyptian architecture/data/322_800px-Saqqarah_Djoser_Mastaba.JPG,archive/Ancient Egyptian architecture/data/308_800px-Saqqara_stepped_pyramid.jpg,0.8878,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Architecture of the Qing Dynasty/data/115.jpg,archive/Architecture of the Qing Dynasty/data/120.jpg,0.8874,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Khmer architecture/data/73.jpg,archive/Khmer architecture/data/78.jpg,0.8873,Khmer architecture,Khmer architecture
+archive/Buddhist architecture/data/39.jpg,archive/Buddhist architecture/data/40.jpg,0.8872,Buddhist architecture,Buddhist architecture
+archive/Swahili architecture/data/173.jpg,archive/Swahili architecture/data/170.jpg,0.8870,Swahili architecture,Swahili architecture
+archive/Achaemenid architecture/data/000191.jpg,archive/Achaemenid architecture/data/000284.jpg,0.8864,Achaemenid architecture,Achaemenid architecture
+archive/Romanesque architecture/data/4425_449px-Facade_of_St._Matthias%27_Abbey%2C_Trier.jpg,archive/Romanesque architecture/data/4424_407px-St._Matthias%27_Abbey%2C_Trier.jpg,0.8864,Romanesque architecture,Romanesque architecture
+archive/Architecture of the Qing Dynasty/data/344.jpg,archive/Architecture of the Qing Dynasty/data/333.jpg,0.8863,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Maya architecture/data/358.jpg,archive/Maya architecture/data/359.jpg,0.8863,Maya architecture,Maya architecture
+archive/Baroque architecture/data/003218.jpg,archive/Baroque architecture/data/003222.jpg,0.8863,Baroque architecture,Baroque architecture
+archive/Ancient Egyptian architecture/data/136_800px-Flickr_-_archer10_%28Dennis%29_-_Egypt-12B-046.jpg,archive/Ancient Egyptian architecture/data/120_600px-Sakkara_02a.jpg,0.8859,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Architecture of Edo Period/data/336.jpg,archive/Architecture of Edo Period/data/330.jpg,0.8855,Architecture of Edo Period,Architecture of Edo Period
+archive/Architecture of the Joseon Dynasty/data/250.jpg,archive/Architecture of the Joseon Dynasty/data/268.jpg,0.8853,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Colonial architecture/data/4261_600px-Catedral_Metropolitana_de_Santiago_2012-09-01_10-05-15.jpg,archive/Colonial architecture/data/4218_800px-Catedral_Santiago_Chile.jpg,0.8852,Colonial architecture,Colonial architecture
+archive/Moorish architecture/data/106.jpg,archive/Moorish architecture/data/141.jpg,0.8848,Moorish architecture,Moorish architecture
+archive/Khmer architecture/data/198.jpg,archive/Khmer architecture/data/213.jpg,0.8848,Khmer architecture,Khmer architecture
+archive/Architecture of the Joseon Dynasty/data/149.jpg,archive/Architecture of the Joseon Dynasty/data/160.jpg,0.8847,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Architecture of the Qing Dynasty/data/345.jpg,archive/Architecture of the Qing Dynasty/data/333.jpg,0.8841,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Safavid architecture/data/371.jpg,archive/Safavid architecture/data/377.jpg,0.8839,Safavid architecture,Safavid architecture
+archive/Architecture of Edo Period/data/273.jpg,archive/Architecture of Edo Period/data/214.jpg,0.8839,Architecture of Edo Period,Architecture of Edo Period
+archive/American craftsman style/data/000943.jpg,archive/American craftsman style/data/000583.jpg,0.8839,American craftsman style,American craftsman style
+archive/Gothic architecture/data/02_0014.jpg,archive/Gothic architecture/data/008642.jpg,0.8833,Gothic architecture,Gothic architecture
+archive/Safavid architecture/data/170.jpg,archive/Safavid architecture/data/169.jpg,0.8832,Safavid architecture,Safavid architecture
+archive/Bauhaus architecture/data/003886.jpg,archive/Bauhaus architecture/data/003876.jpg,0.8826,Bauhaus architecture,Bauhaus architecture
+archive/Architecture of Edo Period/data/11.jpg,archive/Architecture of Edo Period/data/12.jpg,0.8824,Architecture of Edo Period,Architecture of Edo Period
+archive/Architecture of the Qing Dynasty/data/217.jpg,archive/Architecture of the Qing Dynasty/data/215.jpg,0.8820,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Palladian architecture/data/011226.jpg,archive/Palladian architecture/data/1072_800px-University-of-Virginia-Rotunda.jpg,0.8815,Palladian architecture,Palladian architecture
+archive/Art Deco architecture/data/3916_465px-Doenhoffplatz_altes_Mossehaus.jpg,archive/Art Deco architecture/data/3918_Mosseverlagshausberlin.jpg,0.8814,Art Deco architecture,Art Deco architecture
+archive/Balinese architecture/data/40.jpg,archive/Balinese architecture/data/38.jpg,0.8812,Balinese architecture,Balinese architecture
+archive/Greek Revival architecture/data/009387.jpg,archive/Greek Revival architecture/data/009547.jpg,0.8810,Greek Revival architecture,Greek Revival architecture
+archive/Baroque architecture/data/119_450px-Basilica_Bom_Jesus%2CGoa_Front_View.JPG,archive/Baroque architecture/data/134_800px-The_Basilica_of_Bom_Jesus_at_Goa.JPG,0.8810,Baroque architecture,Baroque architecture
+archive/Minangkabau architecture/data/129.jpg,archive/Minangkabau architecture/data/130.jpg,0.8807,Minangkabau architecture,Minangkabau architecture
+archive/Achaemenid architecture/data/000328.jpg,archive/Achaemenid architecture/data/000147.jpg,0.8807,Achaemenid architecture,Achaemenid architecture
+archive/Mughal architecture/data/139.jpg,archive/Mughal architecture/data/151.jpg,0.8804,Mughal architecture,Mughal architecture
+archive/Palladian architecture/data/1095_RotundaII.jpg,archive/Palladian architecture/data/1090_800px-University_of_Virginia_Rotunda_2006.jpg,0.8800,Palladian architecture,Palladian architecture
+archive/Gothic architecture/data/008692.jpg,archive/Gothic architecture/data/Reims-Cathedral-Facade.jpg,0.8799,Gothic architecture,Gothic architecture
+archive/Art Nouveau architecture/data/002960.jpg,archive/Art Nouveau architecture/data/002626.jpg,0.8799,Art Nouveau architecture,Art Nouveau architecture
+archive/Minangkabau architecture/data/141.jpg,archive/Minangkabau architecture/data/109.jpg,0.8796,Minangkabau architecture,Minangkabau architecture
+archive/American craftsman style/data/460_800px-Rogers_Street_South_1017%2C_McDoel_Gardens.jpg,archive/American craftsman style/data/427_800px-First_Street_East%2C_409%2C_East_Second_Street_HD.jpg,0.8795,American craftsman style,American craftsman style
+archive/Beaux-Arts architecture/data/004681.jpg,archive/Beaux-Arts architecture/data/004539.jpg,0.8794,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Beaux-Arts architecture/data/2278_800px-Mortimer_Barnett_Davis_House%2C_Montreal_03.jpg,archive/Beaux-Arts architecture/data/2275_800px-Purvis_Hall_1.JPG,0.8793,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Greek Revival architecture/data/2743_461px-306_Walnut_Street_from_west.jpg,archive/Greek Revival architecture/data/2744_440px-306_Walnut_Street_from_east.jpg,0.8791,Greek Revival architecture,Greek Revival architecture
+archive/Beaux-Arts architecture/data/004517.jpg,archive/Beaux-Arts architecture/data/004545.jpg,0.8789,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Amazigh architecture/data/122.jpg,archive/Amazigh architecture/data/161.jpg,0.8786,Amazigh architecture,Amazigh architecture
+archive/Gothic architecture/data/008963.jpg,archive/Gothic architecture/data/02_0005.jpg,0.8784,Gothic architecture,Gothic architecture
+archive/Gothic architecture/data/02_0034.jpg,archive/Gothic architecture/data/02_0045.jpg,0.8781,Gothic architecture,Gothic architecture
+archive/Ottoman architecture/data/382.jpg,archive/Ottoman architecture/data/373.jpg,0.8777,Ottoman architecture,Ottoman architecture
+archive/Ancient Egyptian architecture/data/835_800px-Great_Sphinx_of_Giza.jpg,archive/Ancient Egyptian architecture/data/856_800px-Esfinge_i_Gran_Piramide.JPG,0.8777,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Russian Revival architecture/data/013500.jpg,archive/Russian Revival architecture/data/2974_800px-Histotic_Museum_in_Moscow%2C_2013.JPG,0.8777,Russian Revival architecture,Russian Revival architecture
+archive/American craftsman style/data/000909.jpg,archive/Colonial architecture/data/006466.jpg,0.8776,American craftsman style,Colonial architecture
+archive/Architecture of the Joseon Dynasty/data/170.jpg,archive/Architecture of the Joseon Dynasty/data/315.jpg,0.8769,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Art Deco architecture/data/3768_800px-Bruno_Paul_Kathreiner-Hochhaus.jpg,archive/Art Deco architecture/data/3773_685px-Berlin%2C_Sch%C3%B6neberg%2C_Potsdamer_Stra%C3%9Fe%2C_Kathreiner-Haus_01.jpg,0.8768,Art Deco architecture,Art Deco architecture
+archive/Postmodern architecture/data/012028.jpg,archive/Postmodern architecture/data/011677.jpg,0.8766,Postmodern architecture,Postmodern architecture
+archive/Georgian architecture/data/4736_800px-11th_Duke_of_Devonshire_9_Allan_Warren.jpg,archive/Georgian architecture/data/4744_702px-The_Duke_of_Devonshire_at_Chatsworth.jpg,0.8766,Georgian architecture,Georgian architecture
+archive/Baroque architecture/data/003691.jpg,archive/Baroque architecture/data/003258.jpg,0.8763,Baroque architecture,Baroque architecture
+archive/Georgian architecture/data/008328.jpg,archive/Georgian architecture/data/008538.jpg,0.8761,Georgian architecture,Georgian architecture
+archive/Russian Revival architecture/data/013780.jpg,archive/Russian Revival architecture/data/79_573px-Catedral_de_Alejandro_Nevsky%2C_Tallin%2C_Estonia%2C_2012-08-05%2C_DD_14.JPG,0.8760,Russian Revival architecture,Russian Revival architecture
+archive/Achaemenid architecture/data/000230.jpg,archive/Achaemenid architecture/data/766_543px-Gate_of_Nations_2008.jpg,0.8754,Achaemenid architecture,Achaemenid architecture
+archive/Bauhaus architecture/data/003883.jpg,archive/Bauhaus architecture/data/004163.jpg,0.8752,Bauhaus architecture,Bauhaus architecture
+archive/Architecture of the Qing Dynasty/data/150.jpg,archive/Architecture of the Qing Dynasty/data/148.jpg,0.8750,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Architecture of the Qing Dynasty/data/191.jpg,archive/Architecture of the Qing Dynasty/data/192.jpg,0.8745,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Dravidian architecture/data/105.jpg,archive/Dravidian architecture/data/98.jpg,0.8740,Dravidian architecture,Dravidian architecture
+archive/Moorish architecture/data/178.jpg,archive/Moorish architecture/data/179.jpg,0.8740,Moorish architecture,Moorish architecture
+archive/Georgian architecture/data/08_0002.jpg,archive/Georgian architecture/data/008166.jpg,0.8739,Georgian architecture,Georgian architecture
+archive/Khmer architecture/data/210.jpg,archive/Khmer architecture/data/158.jpg,0.8738,Khmer architecture,Khmer architecture
+archive/Tudor Revival architecture/data/955_800px-Vinton_School_Omaha_from_SW_1.JPG,archive/Tudor Revival architecture/data/956_800px-Vinton_School_Omaha_from_S_1.JPG,0.8736,Tudor Revival architecture,Tudor Revival architecture
+archive/Minangkabau architecture/data/306.jpg,archive/Minangkabau architecture/data/307.jpg,0.8736,Minangkabau architecture,Minangkabau architecture
+archive/Baroque architecture/data/003310.jpg,archive/Baroque architecture/data/003419.jpg,0.8735,Baroque architecture,Baroque architecture
+archive/American craftsman style/data/000584.jpg,archive/American craftsman style/data/000608.jpg,0.8733,American craftsman style,American craftsman style
+archive/Tudor Revival architecture/data/291_800px-Te_Koraha_04.JPG,archive/Tudor Revival architecture/data/290_800px-Te_Koraha_03.JPG,0.8729,Tudor Revival architecture,Tudor Revival architecture
+archive/Gothic architecture/data/009143.jpg,archive/Gothic architecture/data/008941.jpg,0.8728,Gothic architecture,Gothic architecture
+archive/Art Nouveau architecture/data/3012_800px-Villa_Les_Glycines_Saurupt_Nancy_11-06-2006.jpg,archive/Art Nouveau architecture/data/3875_800px-Villa_art_nouveau_du_parc_de_Saurupt_%28Nancy%29_%284016930711%29.jpg,0.8725,Art Nouveau architecture,Art Nouveau architecture
+archive/Architecture of the Qing Dynasty/data/160.jpg,archive/Architecture of the Qing Dynasty/data/172.jpg,0.8723,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Achaemenid architecture/data/000127.jpg,archive/Achaemenid architecture/data/000147.jpg,0.8720,Achaemenid architecture,Achaemenid architecture
+archive/Moorish architecture/data/122.jpg,archive/Moorish architecture/data/135.jpg,0.8720,Moorish architecture,Moorish architecture
+archive/Greek Revival architecture/data/4860_599px-StJosephExterior.jpg,archive/Greek Revival architecture/data/4848_800px-USA-San_Jose-Cathedral_Basilica_of_Saint_Joseph-18.jpg,0.8719,Greek Revival architecture,Greek Revival architecture
+archive/Khmer architecture/data/165.jpg,archive/Khmer architecture/data/209.jpg,0.8716,Khmer architecture,Khmer architecture
+archive/Safavid architecture/data/184.jpg,archive/Safavid architecture/data/171.jpg,0.8714,Safavid architecture,Safavid architecture
+archive/Ancient Egyptian architecture/data/001467.jpg,archive/Ancient Egyptian architecture/data/001601.jpg,0.8714,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Byzantine architecture/data/2112_Nessebar3.jpg,archive/Byzantine architecture/data/2116_Nesebar_-_Church_of_St_John_Aliturgetos.jpg,0.8714,Byzantine architecture,Byzantine architecture
+archive/Georgian architecture/data/008014.jpg,archive/Colonial architecture/data/006451.jpg,0.8713,Georgian architecture,Colonial architecture
+archive/International style/data/1440_450px-Litchfield_Towers_02.JPG,archive/International style/data/1447_450px-Litchfield_Towers_01.JPG,0.8710,International style,International style
+archive/Postmodern architecture/data/4352_450px-200806_Berlin_365.JPG,archive/Postmodern architecture/data/4351_450px-Potsdamer_Platz_2005_108.JPG,0.8708,Postmodern architecture,Postmodern architecture
+archive/Russian Revival architecture/data/1588_670px-Church_of_icon_%C2%ABLife-bearing_Source%C2%BB_of_the_Most_Holy_Theotoko_in_Tsaritsyno_5.jpg,archive/Russian Revival architecture/data/417_450px-La_ruse_ortodoksa_pre%C4%9Dejeto_en_Palanga.jpg,0.8708,Russian Revival architecture,Russian Revival architecture
+archive/Mughal architecture/data/260.jpg,archive/Mughal architecture/data/261.jpg,0.8704,Mughal architecture,Mughal architecture
+archive/Gothic architecture/data/008665.jpg,archive/Gothic architecture/data/02_0007.jpg,0.8698,Gothic architecture,Gothic architecture
+archive/Colonial architecture/data/980_800px-Morelia_Cathedral_DSC_0450_AD.JPG,archive/Colonial architecture/data/862_799px-MoreliaCathedral19.JPG,0.8697,Colonial architecture,Colonial architecture
+archive/Art Nouveau architecture/data/837_800px-Franz%C3%B6sische_Botschaft_Vienna_June_2006_003.jpg,archive/Art Nouveau architecture/data/847_800px-WienFranzBotschaft.jpg,0.8690,Art Nouveau architecture,Art Nouveau architecture
+archive/Chicago school architecture/data/584_800px-Martin_Hotel_%28Sioux_City%29_from_SW_1.jpg,archive/Chicago school architecture/data/587_734px-Martin_Hotel_%28Sioux_City%29_from_SW_2.jpg,0.8689,Chicago school architecture,Chicago school architecture
+archive/International style/data/009822.jpg,archive/International style/data/1366_579px-425_Market_Street%2C_San_Francisco.jpg,0.8685,International style,International style
+archive/Baroque architecture/data/5063_668px-The_Dome_Church_at_Les_Invalides_-_July_2006.jpg,archive/Baroque architecture/data/4976_800px-Paris_-_Les_invalides_-_Le_D%C3%B4me_-_131.jpg,0.8684,Baroque architecture,Baroque architecture
+archive/Baroque architecture/data/2736_439px-Buergersaal_Muenchen.jpg,archive/Baroque architecture/data/2718_450px-B%C3%BCrgersaal_au%C3%9Fen.jpg,0.8683,Baroque architecture,Baroque architecture
+archive/Khmer architecture/data/26.jpg,archive/Khmer architecture/data/70.jpg,0.8673,Khmer architecture,Khmer architecture
+archive/Russian Revival architecture/data/013566.jpg,archive/Russian Revival architecture/data/013679.jpg,0.8673,Russian Revival architecture,Russian Revival architecture
+archive/Art Nouveau architecture/data/6053_800px-Poznan_Stawna_425-18.jpg,archive/Art Nouveau architecture/data/6052_800px-Poznan_Stawna_425-09.jpg,0.8670,Art Nouveau architecture,Art Nouveau architecture
+archive/Architecture of Edo Period/data/283.jpg,archive/Architecture of Edo Period/data/223.jpg,0.8670,Architecture of Edo Period,Architecture of Edo Period
+archive/Baroque architecture/data/2779_400px-St_Michael_Berg_am_Laim.jpg,archive/Baroque architecture/data/2802_442px-St._Michael_Berg_am_Laim-7.jpg,0.8669,Baroque architecture,Baroque architecture
+archive/Architecture of Edo Period/data/233.jpg,archive/Architecture of Edo Period/data/268.jpg,0.8669,Architecture of Edo Period,Architecture of Edo Period
+archive/Khmer architecture/data/40.jpg,archive/Khmer architecture/data/41.jpg,0.8665,Khmer architecture,Khmer architecture
+archive/Architecture of the Joseon Dynasty/data/40.jpg,archive/Architecture of the Joseon Dynasty/data/26.jpg,0.8661,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Bauhaus architecture/data/003997.jpg,archive/Bauhaus architecture/data/003876.jpg,0.8656,Bauhaus architecture,Bauhaus architecture
+archive/Art Nouveau architecture/data/2755_800px-Alberta_iela_2a04.JPG,archive/Art Nouveau architecture/data/2773_450px-Alberta_iela_2a03.JPG,0.8656,Art Nouveau architecture,Art Nouveau architecture
+archive/Queen Anne architecture/data/1983_Old_House_in_Moro_%28Sherman_County%2C_Oregon_scenic_images%29_%28sheDB0213%29.jpg,archive/Queen Anne architecture/data/2024_Old_House_in_Moro_%28Sherman_County%2C_Oregon_scenic_images%29_%28sheDB0215%29.jpg,0.8652,Queen Anne architecture,Queen Anne architecture
+archive/Maya architecture/data/498.jpg,archive/Maya architecture/data/463.jpg,0.8651,Maya architecture,Maya architecture
+archive/Art Nouveau architecture/data/1831_673px-Casa_Gallardo_%28Madrid%29_01.jpg,archive/Art Nouveau architecture/data/1816_800px-CasaGallardoMadrid.jpg,0.8648,Art Nouveau architecture,Art Nouveau architecture
+archive/Achaemenid architecture/data/000249.jpg,archive/Achaemenid architecture/data/000161.jpg,0.8646,Achaemenid architecture,Achaemenid architecture
+archive/Georgian architecture/data/008093.jpg,archive/Georgian architecture/data/008094.jpg,0.8641,Georgian architecture,Georgian architecture
+archive/Khmer architecture/data/232.jpg,archive/Khmer architecture/data/223.jpg,0.8641,Khmer architecture,Khmer architecture
+archive/American craftsman style/data/546_800px-Washington_Street_South%2C_1407%2C_Monon_SA.jpg,archive/American craftsman style/data/513_800px-Ballantine_Road_South%2C_412-414%2C_Elm_Heights_HD.jpg,0.8640,American craftsman style,American craftsman style
+archive/Khmer architecture/data/64.jpg,archive/Khmer architecture/data/58.jpg,0.8638,Khmer architecture,Khmer architecture
+archive/American Foursquare architecture/data/001247.jpg,archive/American Foursquare architecture/data/001272.jpg,0.8638,American Foursquare architecture,American Foursquare architecture
+archive/Deconstructivism/data/007424.jpg,archive/Deconstructivism/data/007157.jpg,0.8637,Deconstructivism,Deconstructivism
+archive/Russian Revival architecture/data/1972_559px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%97%D0%B0%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%29_1.jpg,archive/Russian Revival architecture/data/1969_521px-%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%28%D0%97%D0%B0%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%29.jpg,0.8636,Russian Revival architecture,Russian Revival architecture
+archive/American Foursquare architecture/data/001093.jpg,archive/American craftsman style/data/000958.jpg,0.8633,American Foursquare architecture,American craftsman style
+archive/American craftsman style/data/000559.jpg,archive/American Foursquare architecture/data/001390.jpg,0.8633,American craftsman style,American Foursquare architecture
+archive/Byzantine architecture/data/005140.jpg,archive/Byzantine architecture/data/005181.jpg,0.8624,Byzantine architecture,Byzantine architecture
+archive/Bauhaus architecture/data/302_800px-Happy_RIZZI_House.jpg,archive/Bauhaus architecture/data/297_800px-Braunschweig%2C_Happy_RIZZI_House.jpg,0.8622,Bauhaus architecture,Bauhaus architecture
+archive/American Foursquare architecture/data/001401.jpg,archive/American Foursquare architecture/data/001123.jpg,0.8616,American Foursquare architecture,American Foursquare architecture
+archive/Architecture of Edo Period/data/302.jpg,archive/Architecture of Edo Period/data/289.jpg,0.8610,Architecture of Edo Period,Architecture of Edo Period
+archive/Architecture of Edo Period/data/126.jpg,archive/Architecture of Edo Period/data/132.jpg,0.8610,Architecture of Edo Period,Architecture of Edo Period
+archive/Art Deco architecture/data/002339.jpg,archive/Art Deco architecture/data/001947.jpg,0.8608,Art Deco architecture,Art Deco architecture
+archive/Gothic architecture/data/009069.jpg,archive/Gothic architecture/data/009203.jpg,0.8607,Gothic architecture,Gothic architecture
+archive/International style/data/009820.jpg,archive/International style/data/009821.jpg,0.8602,International style,International style
+archive/Beaux-Arts architecture/data/4477_450px-Palacio_Legislativo_de_la_Provincia_de_Buenos_Aires_%28La_Plata%29_%282%29.JPG,archive/Beaux-Arts architecture/data/4482_800px-Legislat.jpg,0.8601,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Pueblo architecture/data/63.jpg,archive/Pueblo architecture/data/104.jpg,0.8601,Pueblo architecture,Pueblo architecture
+archive/Safavid architecture/data/53.jpg,archive/Safavid architecture/data/71.jpg,0.8599,Safavid architecture,Safavid architecture
+archive/Ancient Egyptian architecture/data/496_800px-Flickr_-_MrSnooks_-_Cairo%2C_Egypt_%281%29.jpg,archive/Ancient Egyptian architecture/data/1811_Menkaure-Pyramid.jpg,0.8597,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Postmodern architecture/data/011652.jpg,archive/Postmodern architecture/data/011713.jpg,0.8591,Postmodern architecture,Postmodern architecture
+archive/Colonial architecture/data/1663_670px-Missiona.JPG,archive/Colonial architecture/data/1672_800px-Exterior_of_the_Mission_Xavier_del_Bac.jpg,0.8588,Colonial architecture,Colonial architecture
+archive/Queen Anne architecture/data/1729_800px-Howard_Hanson_House_from_SE_1.JPG,archive/Queen Anne architecture/data/1934_800px-Sadie_White_House_2_-_West_Linn_Oregon.jpg,0.8588,Queen Anne architecture,Queen Anne architecture
+archive/Russian Revival architecture/data/672_450px-Chram_vecneho_spanku_panny_Marie.jpg,archive/Russian Revival architecture/data/669_515px-Uspenski_Cathedral_Helsinki_2012.jpg,0.8587,Russian Revival architecture,Russian Revival architecture
+archive/Edwardian architecture/data/813_Londres_189..jpg,archive/Edwardian architecture/data/1183_The_County_Hall%2C_main_entrance%2C_York_Road_-_geograph.org.uk_-_1229255.jpg,0.8587,Edwardian architecture,Edwardian architecture
+archive/Architecture of Edo Period/data/246.jpg,archive/Architecture of Edo Period/data/251.jpg,0.8580,Architecture of Edo Period,Architecture of Edo Period
+archive/Safavid architecture/data/54.jpg,archive/Safavid architecture/data/51.jpg,0.8579,Safavid architecture,Safavid architecture
+archive/Baroque architecture/data/3283_440px-Schlosskirche_%28Berlin-K%C3%B6penick%29_Portalseite.jpg,archive/Baroque architecture/data/3285_450px-Berlin_koepenick_schlosskirche.jpg,0.8576,Baroque architecture,Baroque architecture
+archive/Architecture of Edo Period/data/315.jpg,archive/Architecture of Edo Period/data/313.jpg,0.8574,Architecture of Edo Period,Architecture of Edo Period
+archive/Romanesque architecture/data/012882.jpg,archive/Romanesque architecture/data/013159.jpg,0.8573,Romanesque architecture,Romanesque architecture
+archive/Queen Anne architecture/data/012289.jpg,archive/Queen Anne architecture/data/012307.jpg,0.8572,Queen Anne architecture,Queen Anne architecture
+archive/Safavid architecture/data/373.jpg,archive/Safavid architecture/data/377.jpg,0.8570,Safavid architecture,Safavid architecture
+archive/American Foursquare architecture/data/001106.jpg,archive/American Foursquare architecture/data/001230.jpg,0.8570,American Foursquare architecture,American Foursquare architecture
+archive/Russian Revival architecture/data/438_442px-%D0%A5%D1%80%D0%B0%D0%BC_-_%D0%BF%D0%B0%D0%BC%D0%B5%D1%82%D0%BD%D0%B8%D0%BA_%D0%A0%D0%BE%D0%B6%D0%B4%D0%B5%D1%81%D1%82%D0%B2%D0%BE_%D0%A5%D1%80%D0%B8%D1%81%D1%82%D0%BE%D0%B2%D0%BE.jpg,archive/Russian Revival architecture/data/476_402px-%D0%91%D0%BE%D0%BB%D0%B3%D0%B0%D1%80%D0%B8%D1%8F%2C_%D0%A8%D0%B8%D0%BF%D0%BA%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B5%D0%B2%D0%B0%D0%BB.jpg,0.8567,Russian Revival architecture,Russian Revival architecture
+archive/Ancient Egyptian architecture/data/001461.jpg,archive/Ancient Egyptian architecture/data/001944.jpg,0.8567,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Ancient Egyptian architecture/data/1418_Cheops_pyramid_01.jpg,archive/Ancient Egyptian architecture/data/1420_800px-Great_Pyramid_of_Giza%2C_Giza%2C_Egypt8.jpg,0.8567,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Moorish architecture/data/123.jpg,archive/Moorish architecture/data/79.jpg,0.8562,Moorish architecture,Moorish architecture
+archive/Art Nouveau architecture/data/5333_800px-Kansallisteatteri.JPG,archive/Art Nouveau architecture/data/5357_800px-Finnish_National_Theatre%2C_Helsinki_-_DSC03436.JPG,0.8562,Art Nouveau architecture,Art Nouveau architecture
+archive/Maya architecture/data/486.jpg,archive/Maya architecture/data/491.jpg,0.8560,Maya architecture,Maya architecture
+archive/Byzantine architecture/data/2704_800px-Basilica_San_Vital_di_Ravenna.JPG,archive/Byzantine architecture/data/005051.jpg,0.8555,Byzantine architecture,Byzantine architecture
+archive/Art Deco architecture/data/4863_800px-Antwerpen_Zwembad_Veldstraat6.JPG,archive/Art Deco architecture/data/4864_450px-Antwerpen_Zwembad_Veldstraat9.JPG,0.8553,Art Deco architecture,Art Deco architecture
+archive/American Foursquare architecture/data/001388.jpg,archive/Colonial architecture/data/006306.jpg,0.8548,American Foursquare architecture,Colonial architecture
+archive/Art Nouveau architecture/data/1826_450px-Street_corner%2C_Plaza_de_Espa%C3%B1a%2C_Madrid.JPG,archive/Art Nouveau architecture/data/002608.jpg,0.8545,Art Nouveau architecture,Art Nouveau architecture
+archive/Moorish architecture/data/112.jpg,archive/Moorish architecture/data/96.jpg,0.8544,Moorish architecture,Moorish architecture
+archive/Art Nouveau architecture/data/6121_800px-Wroclaw-rogPrusa-Swietokrzyskiej.jpg,archive/Art Nouveau architecture/data/6118_800px-Pano-Wroclaw-Swietokrzyska-Prusa.jpg,0.8544,Art Nouveau architecture,Art Nouveau architecture
+archive/Palladian architecture/data/011161.jpg,archive/Palladian architecture/data/011031.jpg,0.8543,Palladian architecture,Palladian architecture
+archive/Gothic architecture/data/02_0036.jpg,archive/Gothic architecture/data/02_0049.jpg,0.8541,Gothic architecture,Gothic architecture
+archive/Colonial architecture/data/4203_lossy-page1-401px-Catedral_de_Santiago.tif.jpg,archive/Colonial architecture/data/5040_800px-Catedral_Habana_01.jpg,0.8541,Colonial architecture,Colonial architecture
+archive/Amazigh architecture/data/202.jpg,archive/Amazigh architecture/data/212.jpg,0.8541,Amazigh architecture,Amazigh architecture
+archive/Safavid architecture/data/62.jpg,archive/Safavid architecture/data/60.jpg,0.8537,Safavid architecture,Safavid architecture
+archive/Art Deco architecture/data/002101.jpg,archive/Art Deco architecture/data/002181.jpg,0.8534,Art Deco architecture,Art Deco architecture
+archive/Gothic architecture/data/009060.jpg,archive/Gothic architecture/data/009203.jpg,0.8531,Gothic architecture,Gothic architecture
+archive/Baroque architecture/data/4684_680px-The_Val-de-Grace.jpg,archive/Baroque architecture/data/4689_736px-Exterior_of_%C3%89glise_du_Val-de-Gr%C3%A2ce_013.jpg,0.8528,Baroque architecture,Baroque architecture
+archive/Architecture of the Qing Dynasty/data/203.jpg,archive/Architecture of the Qing Dynasty/data/202.jpg,0.8525,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Greek Revival architecture/data/4155_800px-Murphy_House_01.jpg,archive/Greek Revival architecture/data/4352_800px-Belvoir_%28Saffold_Plantation%29.jpg,0.8524,Greek Revival architecture,Greek Revival architecture
+archive/Chicago school architecture/data/179_450px-20080703_Chicago_Savings_Bank_Building.JPG,archive/Chicago school architecture/data/005692.jpg,0.8520,Chicago school architecture,Chicago school architecture
+archive/Queen Anne architecture/data/012552.jpg,archive/American Foursquare architecture/data/001415.jpg,0.8518,Queen Anne architecture,American Foursquare architecture
+archive/Palladian architecture/data/011077.jpg,archive/Georgian architecture/data/3544_800px-Flickr_-_Duncan_-_The_Queen%27s_House%2C_Greenwich.jpg,0.8517,Palladian architecture,Georgian architecture
+archive/Beaux-Arts architecture/data/4488_800px-NS_P._Legislativo.jpg,archive/Beaux-Arts architecture/data/4482_800px-Legislat.jpg,0.8515,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Baroque architecture/data/541_800px-Chiesa_di_S.Marziale_Facciata.JPG,archive/Baroque architecture/data/540_800px-Venezia_-_Chiesa_di_S.Marziale.JPG,0.8515,Baroque architecture,Baroque architecture
+archive/Ancient Egyptian architecture/data/3112_800px-Sahoure6.JPG,archive/Ancient Egyptian architecture/data/3114_800px-Pyramid_of_Sahure_2.jpg,0.8514,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Art Nouveau architecture/data/6211_800px-Warszawa%2C_Hotel_Bristol_-_fotopolska.eu_%28208629%29.jpg,archive/Art Nouveau architecture/data/6233_415px-POL_Warsaw_Bristol_Hotel_026.jpg,0.8504,Art Nouveau architecture,Art Nouveau architecture
+archive/Novelty architecture/data/2007_450px-Virgen_de_la_Paz_1999_005.jpg,archive/Novelty architecture/data/2021_529px-Virgen_de_la_Paz_Trujillo.JPG,0.8501,Novelty architecture,Novelty architecture
+archive/Postmodern architecture/data/4964_397px-Lipstick_Building_-_Philip_Johnson.jpg,archive/Postmodern architecture/data/4963_450px-Lipstick_Building%2C_by_David_Shankbone.JPG,0.8499,Postmodern architecture,Postmodern architecture
+archive/Architecture of Edo Period/data/65.jpg,archive/Architecture of Edo Period/data/99.jpg,0.8498,Architecture of Edo Period,Architecture of Edo Period
+archive/Palladian architecture/data/011184.jpg,archive/Palladian architecture/data/011439.jpg,0.8496,Palladian architecture,Palladian architecture
+archive/Art Deco architecture/data/3860_800px-20080716_14995_DSC02002_Wei%C3%9Fe_Stadt_Aroser_Allee.JPG,archive/Art Deco architecture/data/3869_800px-20080716_14995_DSC01999_Wei%C3%9Fe_Stadt_Gotthardstra%C3%9Fe_-_Aroser_Allee.JPG,0.8489,Art Deco architecture,Art Deco architecture
+archive/Minangkabau architecture/data/235.jpg,archive/Minangkabau architecture/data/234.jpg,0.8489,Minangkabau architecture,Minangkabau architecture
+archive/Beaux-Arts architecture/data/2463_800px-Th%C3%A9%C3%A2tre_du_Capitole.jpg,archive/Beaux-Arts architecture/data/2473_450px-Qu%C3%A9bec_-_Capitole.jpg,0.8489,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Colonial architecture/data/251_800px-CAYETANO_GTO.jpg,archive/Colonial architecture/data/1314_658px-CathedralHuajuapan2.JPG,0.8488,Colonial architecture,Colonial architecture
+archive/Russian Revival architecture/data/013534.jpg,archive/Russian Revival architecture/data/013586.jpg,0.8486,Russian Revival architecture,Russian Revival architecture
+archive/Russian Revival architecture/data/013753.jpg,archive/Russian Revival architecture/data/013603.jpg,0.8482,Russian Revival architecture,Russian Revival architecture
+archive/Safavid architecture/data/40.jpg,archive/Safavid architecture/data/41.jpg,0.8477,Safavid architecture,Safavid architecture
+archive/Palladian architecture/data/011142.jpg,archive/Greek Revival architecture/data/009319.jpg,0.8474,Palladian architecture,Greek Revival architecture
+archive/American Foursquare architecture/data/001033.jpg,archive/American Foursquare architecture/data/001014.jpg,0.8474,American Foursquare architecture,American Foursquare architecture
+archive/Achaemenid architecture/data/000070.jpg,archive/Achaemenid architecture/data/000291.jpg,0.8474,Achaemenid architecture,Achaemenid architecture
+archive/Architecture of Edo Period/data/13.jpg,archive/Architecture of Edo Period/data/214.jpg,0.8471,Architecture of Edo Period,Architecture of Edo Period
+archive/Baroque architecture/data/162_800px-Basilica_of_Bom_Jesus_-_Old_Goa.jpg,archive/Baroque architecture/data/180_800px-Besilica_of_Bom_Jesus_5%28Old_Goa_%29.jpg,0.8471,Baroque architecture,Baroque architecture
+archive/Architecture of the Joseon Dynasty/data/276.jpg,archive/Architecture of the Joseon Dynasty/data/277.jpg,0.8470,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/American Foursquare architecture/data/000985.jpg,archive/American Foursquare architecture/data/001100.jpg,0.8468,American Foursquare architecture,American Foursquare architecture
+archive/Dravidian architecture/data/173.jpg,archive/Dravidian architecture/data/99.jpg,0.8468,Dravidian architecture,Dravidian architecture
+archive/Safavid architecture/data/167.jpg,archive/Safavid architecture/data/178.jpg,0.8466,Safavid architecture,Safavid architecture
+archive/Safavid architecture/data/99.jpg,archive/Safavid architecture/data/108.jpg,0.8465,Safavid architecture,Safavid architecture
+archive/Dravidian architecture/data/159.jpg,archive/Dravidian architecture/data/155.jpg,0.8458,Dravidian architecture,Dravidian architecture
+archive/Buddhist architecture/data/220.jpg,archive/Buddhist architecture/data/223.jpg,0.8457,Buddhist architecture,Buddhist architecture
+archive/Stalinist architecture/data/2.jpg,archive/Stalinist architecture/data/19.jpg,0.8454,Stalinist architecture,Stalinist architecture
+archive/Art Deco architecture/data/3177_Mexico_bellas_artes_palace.jpg,archive/Art Deco architecture/data/3323_800px-Palacio_de_Bellas_Artes_%28frente%29.jpg,0.8451,Art Deco architecture,Art Deco architecture
+archive/Deconstructivism/data/006918.jpg,archive/Deconstructivism/data/006992.jpg,0.8445,Deconstructivism,Deconstructivism
+archive/Art Nouveau architecture/data/002603.jpg,archive/Art Nouveau architecture/data/002605.jpg,0.8442,Art Nouveau architecture,Art Nouveau architecture
+archive/Architecture of Edo Period/data/35.jpg,archive/Architecture of Edo Period/data/34.jpg,0.8438,Architecture of Edo Period,Architecture of Edo Period
+archive/American Foursquare architecture/data/001372.jpg,archive/American Foursquare architecture/data/001261.jpg,0.8437,American Foursquare architecture,American Foursquare architecture
+archive/Architecture of the Joseon Dynasty/data/228.jpg,archive/Architecture of the Joseon Dynasty/data/232.jpg,0.8434,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/International style/data/464_800px-Allegrocube_-_1973_-_Charles_Daudelin_-_04.jpg,archive/International style/data/466_800px-Allegrocube_-_1973_-_Charles_Daudelin_-_01.jpg,0.8433,International style,International style
+archive/Colonial architecture/data/2242_800px-Cabildo_de_Buenos_Aires.JPG,archive/Colonial architecture/data/2247_780px-Cabildo_en_plaza_de_mayo.JPG,0.8429,Colonial architecture,Colonial architecture
+archive/Romanesque architecture/data/013046.jpg,archive/Romanesque architecture/data/012824.jpg,0.8428,Romanesque architecture,Romanesque architecture
+archive/Gothic architecture/data/Expiatorio_GDL.jpg,archive/Gothic architecture/data/009221.jpg,0.8427,Gothic architecture,Gothic architecture
+archive/American craftsman style/data/000667.jpg,archive/American craftsman style/data/000583.jpg,0.8427,American craftsman style,American craftsman style
+archive/Russian Revival architecture/data/013646.jpg,archive/Russian Revival architecture/data/013615.jpg,0.8425,Russian Revival architecture,Russian Revival architecture
+archive/Amazigh architecture/data/276.jpg,archive/Amazigh architecture/data/260.jpg,0.8413,Amazigh architecture,Amazigh architecture
+archive/Russian Revival architecture/data/013499.jpg,archive/Russian Revival architecture/data/013498.jpg,0.8411,Russian Revival architecture,Russian Revival architecture
+archive/Deconstructivism/data/75_450px-Dancing_House-Prague-2.jpg,archive/Deconstructivism/data/006937.jpg,0.8405,Deconstructivism,Deconstructivism
+archive/Novelty architecture/data/1273_450px-GiantPineappleNambour.jpg,archive/Novelty architecture/data/1227_450px-Big_Pineapple%2C_Gympie%2C_Queensland.jpg,0.8404,Novelty architecture,Novelty architecture
+archive/American Foursquare architecture/data/001063.jpg,archive/American Foursquare architecture/data/000994.jpg,0.8404,American Foursquare architecture,American Foursquare architecture
+archive/Queen Anne architecture/data/2183_800px-Henderson_House_Lake_City01.jpg,archive/Queen Anne architecture/data/2188_450px-Henderson_House_Lake_City03.jpg,0.8404,Queen Anne architecture,Queen Anne architecture
+archive/Architecture of the Joseon Dynasty/data/236.jpg,archive/Architecture of the Joseon Dynasty/data/231.jpg,0.8401,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Greek Revival architecture/data/009335.jpg,archive/Greek Revival architecture/data/2708_800px-Second_Bank_of_the_United_States_rear.jpg,0.8400,Greek Revival architecture,Greek Revival architecture
+archive/Art Deco architecture/data/1517_Porta_del_Cementerio_Municipal_de_Azul%2C_provincia_de_Buenos_Aires_Argentina.JPG,archive/Art Deco architecture/data/1521_800px-Portal_del_Cementerio_Municipal_de_Azul_01.JPG,0.8399,Art Deco architecture,Art Deco architecture
+archive/Mughal architecture/data/282.jpg,archive/Mughal architecture/data/275.jpg,0.8397,Mughal architecture,Mughal architecture
+archive/Achaemenid architecture/data/282_627px-Pasargad232.JPG,archive/Achaemenid architecture/data/280_800px-CyrustheGreatTomb_22055.jpg,0.8397,Achaemenid architecture,Achaemenid architecture
+archive/American craftsman style/data/568_800px-Park_Avenue_South%2C_523%2C_Elm_Heights_HD.jpg,archive/American Foursquare architecture/data/001025.jpg,0.8396,American craftsman style,American Foursquare architecture
+archive/Gothic architecture/data/008722.jpg,archive/Gothic architecture/data/008824.jpg,0.8391,Gothic architecture,Gothic architecture
+archive/Beaux-Arts architecture/data/004956.jpg,archive/Queen Anne architecture/data/012304.jpg,0.8389,Beaux-Arts architecture,Queen Anne architecture
+archive/American craftsman style/data/000812.jpg,archive/American craftsman style/data/000873.jpg,0.8385,American craftsman style,American craftsman style
+archive/Queen Anne architecture/data/2557_800px-Snohomish%2C_WA_-_119_Cedar_03.jpg,archive/Queen Anne architecture/data/2490_800px-Snohomish%2C_WA_-_119_Cedar_01.jpg,0.8382,Queen Anne architecture,Queen Anne architecture
+archive/Georgian architecture/data/3145_800px-South_Front_of_Kedleston_Hall.jpg,archive/Georgian architecture/data/3174_Kedleston_Hall_%28rear_view%29_-_geograph.org.uk_-_376766.jpg,0.8381,Georgian architecture,Georgian architecture
+archive/Art Deco architecture/data/002121.jpg,archive/Art Deco architecture/data/002527.jpg,0.8379,Art Deco architecture,Art Deco architecture
+archive/Baroque architecture/data/4444_401px-Church_of_the_Protection_of_the_Theotokos_in_Fili_08.jpg,archive/Baroque architecture/data/4439_450px-Moscow_Church_in_Fili.JPG,0.8377,Baroque architecture,Baroque architecture
+archive/Novelty architecture/data/010673.jpg,archive/Novelty architecture/data/010542.jpg,0.8375,Novelty architecture,Novelty architecture
+archive/Georgian architecture/data/008177.jpg,archive/Georgian architecture/data/008059.jpg,0.8374,Georgian architecture,Georgian architecture
+archive/American Foursquare architecture/data/001220.jpg,archive/American Foursquare architecture/data/001167.jpg,0.8369,American Foursquare architecture,American Foursquare architecture
+archive/Gothic architecture/data/008852.jpg,archive/Romanesque architecture/data/013465.jpg,0.8369,Gothic architecture,Romanesque architecture
+archive/Architecture of the Qing Dynasty/data/452.jpg,archive/Architecture of the Qing Dynasty/data/435.jpg,0.8369,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/American craftsman style/data/25_800px-Hastings%2C_Nebraska_806_N_Lincoln_Ave.JPG,archive/American craftsman style/data/524_800px-Walnut_Street_South%2C_1403%2C_Monon_SA.jpg,0.8368,American craftsman style,American craftsman style
+archive/Architecture of the Joseon Dynasty/data/96.jpg,archive/Architecture of the Joseon Dynasty/data/175.jpg,0.8367,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/Greek Revival architecture/data/2506_800px-Rivermont_Lynchburg_VA.jpg,archive/American Foursquare architecture/data/001025.jpg,0.8365,Greek Revival architecture,American Foursquare architecture
+archive/Colonial architecture/data/006247.jpg,archive/Queen Anne architecture/data/012679.jpg,0.8359,Colonial architecture,Queen Anne architecture
+archive/Colonial architecture/data/006318.jpg,archive/Colonial architecture/data/006306.jpg,0.8358,Colonial architecture,Colonial architecture
+archive/Russian Revival architecture/data/013524.jpg,archive/Russian Revival architecture/data/013609.jpg,0.8357,Russian Revival architecture,Russian Revival architecture
+archive/Art Nouveau architecture/data/4726_399px-ESA_Karlsplatz15-19_Bild1.jpg,archive/Art Nouveau architecture/data/5853_800px-Katowice_MHK.jpg,0.8356,Art Nouveau architecture,Art Nouveau architecture
+archive/Baroque architecture/data/2050_800px-Kalvarienbergkirche_Hernals_7.JPG,archive/Baroque architecture/data/2338_450px-Wien_Jesuitenkirche_Front.JPG,0.8352,Baroque architecture,Baroque architecture
+archive/American craftsman style/data/000948.jpg,archive/American craftsman style/data/000758.jpg,0.8352,American craftsman style,American craftsman style
+archive/Art Nouveau architecture/data/4255_450px-Jugendstil_Samariterviertel_Berlin_6.jpg,archive/Art Nouveau architecture/data/4302_479px-Berlin_Friedrichshain_B%C3%A4nschstra%C3%9Fe_37_%2809045009%29.JPG,0.8349,Art Nouveau architecture,Art Nouveau architecture
+archive/Palladian architecture/data/1039_800px-Monticello_2010-10-29.jpg,archive/Palladian architecture/data/1040_800px-Thomas_Jefferson%27s_Monticello_Estate.jpg,0.8348,Palladian architecture,Palladian architecture
+archive/Queen Anne architecture/data/1341_687px-1403-highland-knoxville-tn1.jpg,archive/Queen Anne architecture/data/2243_800px-Ranzow_Sanders_House.jpg,0.8345,Queen Anne architecture,Queen Anne architecture
+archive/Bauhaus architecture/data/004389.jpg,archive/Bauhaus architecture/data/004019.jpg,0.8345,Bauhaus architecture,Bauhaus architecture
+archive/Maya architecture/data/509.jpg,archive/Maya architecture/data/511.jpg,0.8345,Maya architecture,Maya architecture
+archive/Buddhist architecture/data/14.jpg,archive/Buddhist architecture/data/13.jpg,0.8344,Buddhist architecture,Buddhist architecture
+archive/Achaemenid architecture/data/000162.jpg,archive/Achaemenid architecture/data/766_543px-Gate_of_Nations_2008.jpg,0.8340,Achaemenid architecture,Achaemenid architecture
+archive/American Foursquare architecture/data/001054.jpg,archive/American Foursquare architecture/data/001272.jpg,0.8339,American Foursquare architecture,American Foursquare architecture
+archive/Colonial architecture/data/006244.jpg,archive/Colonial architecture/data/006474.jpg,0.8337,Colonial architecture,Colonial architecture
+archive/Ancient Egyptian architecture/data/001455.jpg,archive/Ancient Egyptian architecture/data/001525.jpg,0.8330,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Achaemenid architecture/data/000224.jpg,archive/Achaemenid architecture/data/000119.jpg,0.8330,Achaemenid architecture,Achaemenid architecture
+archive/American Foursquare architecture/data/001219.jpg,archive/American Foursquare architecture/data/001134.jpg,0.8328,American Foursquare architecture,American Foursquare architecture
+archive/Art Nouveau architecture/data/5971_800px-Krakow_plac_Szczepanski.jpg,archive/Art Nouveau architecture/data/5966_800px-The_Old_Theatre_in_Crakow.JPG,0.8325,Art Nouveau architecture,Art Nouveau architecture
+archive/Architecture of Edo Period/data/114.jpg,archive/Architecture of Edo Period/data/228.jpg,0.8324,Architecture of Edo Period,Architecture of Edo Period
+archive/American Foursquare architecture/data/001166.jpg,archive/American Foursquare architecture/data/001272.jpg,0.8323,American Foursquare architecture,American Foursquare architecture
+archive/Baroque architecture/data/003747.jpg,archive/Baroque architecture/data/003610.jpg,0.8320,Baroque architecture,Baroque architecture
+archive/Art Nouveau architecture/data/2803_800px-Alberta_iel%C4%81_4_20120728-02.JPG,archive/Art Nouveau architecture/data/2896_800px-Alberta_iel%C4%81_2_20120728-1.JPG,0.8319,Art Nouveau architecture,Art Nouveau architecture
+archive/Art Nouveau architecture/data/438_800px-Linke_Wienzeile_38_Gesamt_5.JPG,archive/Art Nouveau architecture/data/206_800px-P.S.K._Vienna_August_2006_031.jpg,0.8319,Art Nouveau architecture,Art Nouveau architecture
+archive/American Foursquare architecture/data/8_448px-Johnson_House_Lynchburg_Nov_08.JPG,archive/American Foursquare architecture/data/001134.jpg,0.8319,American Foursquare architecture,American Foursquare architecture
+archive/Gothic architecture/data/008856.jpg,archive/Gothic architecture/data/008861.jpg,0.8313,Gothic architecture,Gothic architecture
+archive/Queen Anne architecture/data/012259.jpg,archive/American Foursquare architecture/data/001070.jpg,0.8312,Queen Anne architecture,American Foursquare architecture
+archive/Achaemenid architecture/data/000290.jpg,archive/Achaemenid architecture/data/000253.jpg,0.8311,Achaemenid architecture,Achaemenid architecture
+archive/Art Deco architecture/data/002499.jpg,archive/Art Deco architecture/data/002417.jpg,0.8311,Art Deco architecture,Art Deco architecture
+archive/Ottoman architecture/data/356.jpg,archive/Ottoman architecture/data/357.jpg,0.8309,Ottoman architecture,Ottoman architecture
+archive/Queen Anne architecture/data/2792_800px-Walnut_Street_North_612%2C_Cottage_Grove_HD.jpg,archive/American Foursquare architecture/data/39_800px-Bow_Valley_SS_Peter-Paul_rectory_from_SW_1.jpg,0.8307,Queen Anne architecture,American Foursquare architecture
+archive/Queen Anne architecture/data/012315.jpg,archive/Queen Anne architecture/data/1283_800px-USA-Santa_Clara-Morse_Mansion-4.jpg,0.8306,Queen Anne architecture,Queen Anne architecture
+archive/Ancient Egyptian architecture/data/001494.jpg,archive/Ancient Egyptian architecture/data/001557.jpg,0.8303,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Hausa architecture/data/101.jpg,archive/Hausa architecture/data/100.jpg,0.8301,Hausa architecture,Hausa architecture
+archive/International style/data/873_800px-Hahagana_masarik.JPG,archive/Bauhaus architecture/data/004403.jpg,0.8301,International style,Bauhaus architecture
+archive/Bauhaus architecture/data/1274_800px-Kornhaus22Sept09.jpg,archive/Bauhaus architecture/data/004127.jpg,0.8299,Bauhaus architecture,Bauhaus architecture
+archive/Amazigh architecture/data/221.jpg,archive/Amazigh architecture/data/217.jpg,0.8298,Amazigh architecture,Amazigh architecture
+archive/Chicago school architecture/data/199_450px-20070530_Gage_Building.JPG,archive/Chicago school architecture/data/005692.jpg,0.8297,Chicago school architecture,Chicago school architecture
+archive/Romanesque architecture/data/012894.jpg,archive/Romanesque architecture/data/013159.jpg,0.8294,Romanesque architecture,Romanesque architecture
+archive/Postmodern architecture/data/011867.jpg,archive/Postmodern architecture/data/4694_450px-PPG_Place_Pitt_04.JPG,0.8292,Postmodern architecture,Postmodern architecture
+archive/Architecture of the Joseon Dynasty/data/297.jpg,archive/Architecture of the Joseon Dynasty/data/56.jpg,0.8288,Architecture of the Joseon Dynasty,Architecture of the Joseon Dynasty
+archive/American craftsman style/data/29_800px-Beatrice%2C_Nebraska_915_N_11_St.JPG,archive/American craftsman style/data/36_800px-Beatrice%2C_Nebraska_822_N_11_St.JPG,0.8286,American craftsman style,American craftsman style
+archive/Beaux-Arts architecture/data/1101_800px-Polk_County_Courthouse_%28Nebraska%29_1.jpg,archive/Beaux-Arts architecture/data/1149_800px-Burt_County_Courthouse_from_SW_3.JPG,0.8284,Beaux-Arts architecture,Beaux-Arts architecture
+archive/Moorish architecture/data/64.jpg,archive/Moorish architecture/data/63.jpg,0.8283,Moorish architecture,Moorish architecture
+archive/Architecture of Edo Period/data/155.jpg,archive/Architecture of Edo Period/data/328.jpg,0.8282,Architecture of Edo Period,Architecture of Edo Period
+archive/Byzantine architecture/data/005195.jpg,archive/Byzantine architecture/data/005131.jpg,0.8281,Byzantine architecture,Byzantine architecture
+archive/Novelty architecture/data/010603.jpg,archive/Novelty architecture/data/010504.jpg,0.8277,Novelty architecture,Novelty architecture
+archive/Amazigh architecture/data/197.jpg,archive/Amazigh architecture/data/177.jpg,0.8277,Amazigh architecture,Amazigh architecture
+archive/Colonial architecture/data/006760.jpg,archive/Colonial architecture/data/006520.jpg,0.8275,Colonial architecture,Colonial architecture
+archive/Achaemenid architecture/data/000063.jpg,archive/Achaemenid architecture/data/000018.jpg,0.8273,Achaemenid architecture,Achaemenid architecture
+archive/Queen Anne architecture/data/2093_800px-Wyer_House_2.JPG,archive/Queen Anne architecture/data/012216.jpg,0.8272,Queen Anne architecture,Queen Anne architecture
+archive/Queen Anne architecture/data/012650.jpg,archive/Queen Anne architecture/data/1800_800px-Hempstead_house_%28Pawnee_City%29_from_E_1.JPG,0.8272,Queen Anne architecture,Queen Anne architecture
+archive/Baroque architecture/data/4379_387px-Moscow%2C_Ascension_church_at_Serpukhov_Gates_%283%29.jpg,archive/Russian Revival architecture/data/1480_399px-Yaroslavl_Chapel_of_Alexander_Nevsky_IMG_0770_1725.jpg,0.8271,Baroque architecture,Russian Revival architecture
+archive/Moorish architecture/data/201.jpg,archive/Moorish architecture/data/204.jpg,0.8270,Moorish architecture,Moorish architecture
+archive/Palladian architecture/data/178_800px-Kilgore-Lewis_House%2C_N_Academy_%28Greenville%2C_South_Carolina%29.JPG,archive/Greek Revival architecture/data/4049_800px-Liberty_Hall_Plantation_House_2008_02.JPG,0.8267,Palladian architecture,Greek Revival architecture
+archive/American Foursquare architecture/data/001211.jpg,archive/American Foursquare architecture/data/001014.jpg,0.8266,American Foursquare architecture,American Foursquare architecture
+archive/Chicago school architecture/data/006081.jpg,archive/Chicago school architecture/data/005686.jpg,0.8265,Chicago school architecture,Chicago school architecture
+archive/Hausa architecture/data/168.jpg,archive/Hausa architecture/data/167.jpg,0.8261,Hausa architecture,Hausa architecture
+archive/Edwardian architecture/data/007624.jpg,archive/Edwardian architecture/data/1697_800px-Western_Market_Overview_201008.jpg,0.8260,Edwardian architecture,Edwardian architecture
+archive/Greek Revival architecture/data/4271_800px-Battle-Friedman_House.jpg,archive/Greek Revival architecture/data/3452_Old_Governor%27s_Mansion_%28Baldwin_County%2C_Georgia%29.jpg,0.8258,Greek Revival architecture,Greek Revival architecture
+archive/Achaemenid architecture/data/000108.jpg,archive/Achaemenid architecture/data/000117.jpg,0.8257,Achaemenid architecture,Achaemenid architecture
+archive/Tudor Revival architecture/data/864_800px-2245-island-home-knoxville-tn1.jpg,archive/Tudor Revival architecture/data/014255.jpg,0.8257,Tudor Revival architecture,Tudor Revival architecture
+archive/Deconstructivism/data/006980.jpg,archive/Deconstructivism/data/2725_800px-Vitra_Design_Museum_Weil_am_Rhein_4.JPG,0.8257,Deconstructivism,Deconstructivism
+archive/Chicago school architecture/data/453_417px-Prudential_Building_HDR.jpg,archive/Chicago school architecture/data/005667.jpg,0.8254,Chicago school architecture,Chicago school architecture
+archive/Dravidian architecture/data/1.jpg,archive/Dravidian architecture/data/86.jpg,0.8253,Dravidian architecture,Dravidian architecture
+archive/Architecture of Edo Period/data/72.jpg,archive/Architecture of Edo Period/data/77.jpg,0.8253,Architecture of Edo Period,Architecture of Edo Period
+archive/Architecture of the Qing Dynasty/data/206.jpg,archive/Architecture of the Qing Dynasty/data/199.jpg,0.8248,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/Architecture of the Qing Dynasty/data/308.jpg,archive/Architecture of the Qing Dynasty/data/371.jpg,0.8247,Architecture of the Qing Dynasty,Architecture of the Qing Dynasty
+archive/American craftsman style/data/490_800px-Atwater_Avenue_East%2C_1308-1310%2C_Elm_Heights_HD.jpg,archive/American craftsman style/data/478_800px-First_Street_East_114_in_Bloomington.jpg,0.8247,American craftsman style,American craftsman style
+archive/Queen Anne architecture/data/2302_772px-Wyant-Talbot_House.jpg,archive/American craftsman style/data/240_800px-Clemens_House_-_Grants_Pass_Oregon.jpg,0.8245,Queen Anne architecture,American craftsman style
+archive/Novelty architecture/data/010522.jpg,archive/Novelty architecture/data/010501.jpg,0.8244,Novelty architecture,Novelty architecture
+archive/Russian Revival architecture/data/1823_%D0%91%D0%BE%D0%B3%D0%BE%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BE%D0%B1%D0%BE%D1%80_%D0%A2%D1%83%D0%BB%D1%8C%D1%81%D0%BA%D0%BE%D0%B3%D0%BE_%D0%BA%D1%80%D0%B5%D0%BC%D0%BB%D1%8F.jpg,archive/Russian Revival architecture/data/013547.jpg,0.8243,Russian Revival architecture,Russian Revival architecture
+archive/Chicago school architecture/data/005689.jpg,archive/Chicago school architecture/data/656_390px-Dominion_Bank%2C_Toronto%2C_Canada.JPG,0.8240,Chicago school architecture,Chicago school architecture
+archive/Dravidian architecture/data/233.jpg,archive/Dravidian architecture/data/231.jpg,0.8239,Dravidian architecture,Dravidian architecture
+archive/Ancient Egyptian architecture/data/001514.jpg,archive/Ancient Egyptian architecture/data/001756.jpg,0.8237,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Greek Revival architecture/data/4507_800px-Asa_Barnes_Tavern.jpg,archive/Greek Revival architecture/data/1644_800px-Banfill_Tavern.jpg,0.8236,Greek Revival architecture,Greek Revival architecture
+archive/American Foursquare architecture/data/001122.jpg,archive/Greek Revival architecture/data/2011_800px-George_Frentz_House_Sept_2012_01.jpg,0.8235,American Foursquare architecture,Greek Revival architecture
+archive/Queen Anne architecture/data/012579.jpg,archive/Queen Anne architecture/data/012232.jpg,0.8233,Queen Anne architecture,Queen Anne architecture
+archive/Safavid architecture/data/332.jpg,archive/Safavid architecture/data/325.jpg,0.8231,Safavid architecture,Safavid architecture
+archive/Postmodern architecture/data/012145.jpg,archive/Postmodern architecture/data/012170.jpg,0.8231,Postmodern architecture,Postmodern architecture
+archive/Greek Revival architecture/data/4576_800px-United_States_Custom_House.jpg,archive/Palladian architecture/data/011124.jpg,0.8228,Greek Revival architecture,Palladian architecture
+archive/Palladian architecture/data/011404.jpg,archive/Palladian architecture/data/011092.jpg,0.8225,Palladian architecture,Palladian architecture
+archive/Romanesque architecture/data/012818.jpg,archive/Romanesque architecture/data/012911.jpg,0.8225,Romanesque architecture,Romanesque architecture
+archive/Palladian architecture/data/011134.jpg,archive/Georgian architecture/data/008004.jpg,0.8224,Palladian architecture,Georgian architecture
+archive/Ancient Egyptian architecture/data/4957_800px-Giza_pyramid_2Egypt.jpg,archive/Ancient Egyptian architecture/data/2333_800px-Giseh_18.jpg,0.8224,Ancient Egyptian architecture,Ancient Egyptian architecture
+archive/Colonial architecture/data/2275_800px-Cabildo_de_la_Ciudad_Autonoma_de_Buenos_Aires.JPG,archive/Colonial architecture/data/2259_800px-Cabildo_de_Buenos_Aires%2C_Argentina%2C_29th._Dec_2010_-_Flickr_-_PhillipC.jpg,0.8223,Colonial architecture,Colonial architecture
+archive/Achaemenid architecture/data/281_400px-Pasargades_cyrus.jpg,archive/Achaemenid architecture/data/000114.jpg,0.8223,Achaemenid architecture,Achaemenid architecture
+archive/Postmodern architecture/data/012127.jpg,archive/Postmodern architecture/data/012141.jpg,0.8223,Postmodern architecture,Postmodern architecture
+archive/American Foursquare architecture/data/001094.jpg,archive/Greek Revival architecture/data/4354_800px-Belvoir_near_Pleasant_Hill_Alabama_01.jpg,0.8222,American Foursquare architecture,Greek Revival architecture
+archive/Colonial architecture/data/275_450px-Aguascalientes_-_Catedral.JPG,archive/Colonial architecture/data/006298.jpg,0.8219,Colonial architecture,Colonial architecture
+archive/Russian Revival architecture/data/4600_800px-%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%94%D1%80%D0%B0%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%82%D0%B5%D0%B0%D1%82%D1%80_2.JPG,archive/Russian Revival architecture/data/4607_800px-%D0%A1%D0%B0%D0%BC%D0%B0%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D0%B4%D1%80%D0%B0%D0%BC_%D1%82%D0%B5%D0%B0%D1%82%D1%80.jpg,0.8218,Russian Revival architecture,Russian Revival architecture
+archive/American craftsman style/data/542_800px-Washington_Street_South%2C_1001%2C_Bryan_Park_SA.jpg,archive/American craftsman style/data/451_800px-Lincoln_Street_South%2C_701%2C_Bryan_Park_SA.jpg,0.8217,American craftsman style,American craftsman style
+archive/Edwardian architecture/data/007478.jpg,archive/Tudor Revival architecture/data/014182.jpg,0.8217,Edwardian architecture,Tudor Revival architecture
+archive/Jain architecture/data/99.jpg,archive/Jain architecture/data/96.jpg,0.8212,Jain architecture,Jain architecture
+archive/Achaemenid architecture/data/000252.jpg,archive/Achaemenid architecture/data/000215.jpg,0.8211,Achaemenid architecture,Achaemenid architecture
+archive/Georgian architecture/data/4206_800px-Blenheim_Palace_-_West_%286911861836%29.jpg,archive/Beaux-Arts architecture/data/004832.jpg,0.8210,Georgian architecture,Beaux-Arts architecture
+archive/American craftsman style/data/000600.jpg,archive/American Foursquare architecture/data/001143.jpg,0.8210,American craftsman style,American Foursquare architecture
+archive/Queen Anne architecture/data/1583_800px-64_Main_Street%2C_Southbridge_MA.jpg,archive/Queen Anne architecture/data/2188_450px-Henderson_House_Lake_City03.jpg,0.8206,Queen Anne architecture,Queen Anne architecture
+archive/Queen Anne architecture/data/012594.jpg,archive/Queen Anne architecture/data/012291.jpg,0.8205,Queen Anne architecture,Queen Anne architecture
+archive/Queen Anne architecture/data/1071_800px-USA-San_Jose-684_South_Almaden_Avenue.jpg,archive/Queen Anne architecture/data/1173_800px-USA-San_Jose-133_Delmas_Avenue-2.jpg,0.8204,Queen Anne architecture,Queen Anne architecture
+archive/Byzantine architecture/data/1651_800px-%D0%98%D0%B2%D0%B5%D1%80%D1%81%D0%BA%D0%B8%D0%B9_%D1%85%D1%80%D0%B0%D0%BC.JPG,archive/Russian Revival architecture/data/1137_489px-Maksimovskaja_church_%28Krasnoturyinsk%29.jpg,0.8204,Byzantine architecture,Russian Revival architecture
